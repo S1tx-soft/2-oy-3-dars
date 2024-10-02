@@ -1,0 +1,71 @@
+.card1 {
+    display: flex;
+    justify-content: space-between;
+
+    border: 7px solid violet;
+    width: 700px;
+    margin: 50px auto;
+    border-radius: 20px;
+}
+
+.card2 {
+    display: flex;
+    justify-content: end;
+
+    border: 7px solid violet;
+    width: 700px;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+.card3 {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    border: 7px solid violet;
+    width: 700px;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+.card4 {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+    border: 7px solid violet;
+    width: 700px;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+.card5 {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    border: 7px solid violet;
+    width: 700px;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+.card6 {
+    display: flex;
+    justify-content: start;
+    gap: 10px;
+    border: 7px solid violet;
+    width: 700px;
+    margin: 20px auto;
+    border-radius: 20px;
+}
+
+.parent {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.mini-box {
+    border-radius: 20px;
+    width: 100px;
+    height: 100px;
+    background-color: blanchedalmond;
+}
